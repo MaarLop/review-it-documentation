@@ -1,5 +1,7 @@
 
-![ReviewIt!](https://user-images.githubusercontent.com/31372437/114324969-c529f300-9b03-11eb-9f39-6ae7a367ea5e.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/31372437/114325573-30c18f80-9b07-11eb-9415-5ac9af7ebd8d.jpeg" alt="Sublime's custom image"/>
+</p>
 
 # ReviewIt!
 
